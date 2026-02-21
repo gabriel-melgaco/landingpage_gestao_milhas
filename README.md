@@ -56,5 +56,3 @@ Esta landing page foi criada para apresentar os serviços de **Augusto Galvão**
 - **SVG Inline** (ícones)
 
 ---
-
-# landingpage_gestao_milhas
